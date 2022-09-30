@@ -1,2 +1,2 @@
 # Weatherapps
-This App is done using Django
+Django based Weatherapp
